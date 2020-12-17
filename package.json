@@ -23,7 +23,7 @@
     "truffle-contract": "3.0.6"
   },
   "dependencies": {
-    "datatables.net": "^1.10.21",
+    "datatables.net": "^1.10.22",
     "datatables.net-dt": "^1.10.21"
   }
 }
